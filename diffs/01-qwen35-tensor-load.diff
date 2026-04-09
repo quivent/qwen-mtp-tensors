@@ -1,5 +1,5 @@
 commit 53075d24cc96fbfe629c6376e55dd81c57641f53
-Author: claudebuildsapps <claude.jbenjaminkr@gmail.com>
+Author: quivent <quivent@users.noreply.github.com>
 Date:   Wed Apr 8 17:16:00 2026 -0400
 
     fix(mtp): end-to-end MTP head load+execute for qwen35 dense Qwen3.5-27B
